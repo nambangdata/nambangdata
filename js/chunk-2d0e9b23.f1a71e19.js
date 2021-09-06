@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e9b23"],{"8f43":function(e,n,a){"use strict";a.r(n);var t=function(){var e=this,n=e.$createElement,a=e._self._c||n;return a("Dashboard",[a("div",[a("div",{staticClass:"mb-4 text-white"},[a("h5",[e._v("Upload Dokumen")]),a("small",[e._v("Pengaturan - "),a("b",[e._v("Upload Dokumen")])])])])])},l=[],o={name:"UploadDocument"},u=o,s=a("2877"),c=Object(s["a"])(u,t,l,!1,null,null,null);n["default"]=c.exports}}]);
+//# sourceMappingURL=chunk-2d0e9b23.f1a71e19.js.map
